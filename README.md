@@ -18,6 +18,6 @@ Projekt końcowy w ramach kursu „Statystyczna analiza danych” – analiza ek
 
   ## 👤 Autorzy
 
-Projekt zespołowy: Joanna Mackiewicz, Krzysztof Lachs, Kinga Kaza
-Kierunek: „Sztuczna Inteligencja i Automatyzacja Procesów Biznesowych w Ujęciu Technicznym”  
-Przedmiot: Statystyczna Analiza Danych
+Projekt zespołowy: Joanna Mackiewicz, Krzysztof Lachs, Kinga Kaza <br>
+Kierunek: „Sztuczna Inteligencja i Automatyzacja Procesów Biznesowych w Ujęciu Technicznym” <br>
+Przedmiot: Statystyczna Analiza Danych <br>
